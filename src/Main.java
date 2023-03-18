@@ -7,7 +7,6 @@ class Programm{
         int ro = sc.nextInt();
         int V = sc.nextInt();
         int F = arhimed(ro, V);
-        int a = sc.nextInt() ;
         System.out.println("F = " + F +"H");
     }
     static int arhimed(int ro, int V){
